@@ -1,2 +1,1 @@
-# crt-sessions
-About the python basics 
+# Python-Basics-
